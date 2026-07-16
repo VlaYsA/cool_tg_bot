@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.useroscacache
+*.sln. orthogonals
+*.suo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.log
+.env
